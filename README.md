@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alifiya Kapasi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+
 <p align="center">
 
 - :mortar_board: I am pursuing B.E. in Computer Engineering in GEC Rajkot

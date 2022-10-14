@@ -5,8 +5,9 @@
 
 <p align="center">
 
-- :mortar_board: I am pursuing B.E. in Computer Engineering in GEC Rajkot
+- :student: I am pursuing B.E. in Computer Engineering in GEC Rajkot
 - :chart_with_upwards_trend:I’m currently working on myself
+- :dart: Improving my DSA skills
 
 </p>
 <h3 align="center">Connect with me:</h3>

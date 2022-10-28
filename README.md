@@ -1,4 +1,3 @@
-<a href="#" style="text-align:center;"><p ><img src="src/bg_helloworld.jpg" width="100%" height="175px"/></p></a>
 
 <h1 align="center">Hi 👋, I'm Alifiya Kapasi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
